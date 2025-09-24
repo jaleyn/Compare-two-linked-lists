@@ -1,1 +1,1 @@
-# Compare-two-linked-lists
+# Compare-two-linked-lists This program builds two singly linked lists from input and compares them node by node. If both lists have the same length and identical values in order, it prints 1; otherwise, it prints 0.
